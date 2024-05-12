@@ -1,0 +1,1 @@
+This project aims to predict heart failure using an Artificial Neural Network (ANN) model. Heart failure is a critical health condition that requires timely intervention for effective management. Predictive models can assist healthcare professionals in identifying individuals at high risk, enabling early intervention and personalized treatment plans.
